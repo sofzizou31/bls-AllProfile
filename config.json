@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://characterized-invention-drawings-theories.trycloudflare.com?a=${model}&b=${encodeURIComponent(imageBase64)}&n=${encodeURIComponent(numberToCompare)}",
+    "apiUrl": "https://characterized-invention-drawings-theories.trycloudflare.com",
     "version": "1.1",
     "lastUpdated": "2023-11-05"
 }
