@@ -8,7 +8,7 @@
     {
       "token": "CAM_1FFB1E36170996BA_189341_SEC",
       "expiration_date": "2025-10-31T16:58:04.377962",
-      "allowed_mac": "18:93:41:EC:59:F9",
+      "allowed_mac": "",
       "created_at": "2025-10-01T16:58:04.377962"
     }
   ]
