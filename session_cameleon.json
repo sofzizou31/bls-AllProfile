@@ -1,15 +1,19 @@
 {
-  "valid_tokens": [
+  "pending_activations": [
     {
-      "token": "Sofiane_Z8M72xPqRnT9vW3bhKSD0NO4aLmXE5cC1GyUJ7iIwFzVpQdBsHkrtuej_9french2",
-      "expiration_date": "2025-12-31T23:59:59",
-      "allowed_mac": "AA:BB:CC:DD:EE:FF"
-    },
+      "mac_address": "AA:BB:CC:DD:EE:FF",
+      "user_info": "email@example.com",
+      "request_date": "2024-01-15T10:30:00",
+      "status": "pending"
+    }
+  ],
+  "approved_tokens": [
     {
-      "token": "CAM_1FFB1E36170996BA_189341_SEC",
-      "expiration_date": "2025-10-31T16:58:04.377962",
-      "allowed_mac": "",
-      "created_at": "2025-10-01T16:58:04.377962"
+      "mac_address": "AA:BB:CC:DD:EE:FF",
+      "token": "CAM_A1B2C3D4E5F6_SEC",
+      "activation_date": "2024-01-15T00:00:00",
+      "expiration_date": "2024-02-15T00:00:00",
+      "status": "active"
     }
   ]
 }
