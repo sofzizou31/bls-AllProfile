@@ -2,11 +2,11 @@
   "valid_tokens": [
     {
       "token": "Sofiane_L3V45vYVuKcL4w0elZMP0IJ7XklQD6Z1Vkupg6TqLJ8UtTGaI8YwxsXGzitzXc1r-italy4",
-      "expiration_date": "2024-12-31T23:59:59"
+      "expiration_date": "2025-11-01T23:59:59"
     },
     {
       "token": "Autre_token_valide_ici",
-      "expiration_date": "2024-11-30T23:59:59"
+      "expiration_date": "202-11-30T23:59:59"
     }
   ]
 }
