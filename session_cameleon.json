@@ -1,32 +1,12 @@
 {
   "pending_activations": [
     {
-      "mac_address": "AA:BB:CC:DD:EE:FF",
-      "user_info": "email@example.com",
-      "request_date": "2024-01-15T10:30:00",
-      "status": "pending"
-    },
-    {
-      "mac_address": "18:93:41:EC:59:F9",
-      "user_info": "sofzizou",
-      "request_date": "2025-10-01T17:22:07.110587",
-      "status": "pending",
-      "machine_name": "SOFZIZOU"
-    },
-    {
       "mac_address": "BF:D9:76:75:D0:A7",
-      "user_info": "sofiane5",
-      "request_date": "2025-10-01T18:18:23.788391",
+      "user_info": "sofzizou5",
+      "request_date": "2025-10-01T18:30:07.389104",
       "status": "pending",
       "machine_name": "DESKTOP-LSB87GO"
     }
   ],
-  "approved_tokens": [
-    {
-      "mac_address": "18:93:41:EC:59:F9",
-      "activation_date": "2025-10-01T00:00:00",
-      "expiration_date": "2025-11-01T00:00:00",
-      "status": "active"
-    }
-  ]
+  "approved_tokens": []
 }
