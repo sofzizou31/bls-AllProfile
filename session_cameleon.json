@@ -6,6 +6,13 @@
       "request_date": "2025-10-01T18:30:07.389104",
       "status": "pending",
       "machine_name": "DESKTOP-LSB87GO"
+    },
+    {
+      "mac_address": "40:1A:58:4C:0A:89",
+      "user_info": "sofzizou",
+      "request_date": "2025-10-08T19:44:14.694871",
+      "status": "pending",
+      "machine_name": "DESKTOP-LSB87GO"
     }
   ],
   "approved_tokens": [
