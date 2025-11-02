@@ -4,8 +4,8 @@
     "name": "belkhir2",
     "mail": "bekltoummes@gmail.com",
     "password": "723623",
-    "GmailPasswordApp": "dxkn zbnt oriv azmi",
-    "profilePhotoId": "ed405fd3-820c-4e39-a4d4-dd820d33e4d3",
+    "GmailPasswordApp": "",
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762108240178/profile_photo.jpg",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
@@ -15,7 +15,6 @@
     "cardCvv": "041",
     "cardMonth": "09",
     "cardYear": "2029",
-    "cardHolder": "BENSALAH BOUCIF",
-    "GmailPasswordApp": ""
+    "cardHolder": "BENSALAH BOUCIF"
   }
 ]
