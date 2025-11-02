@@ -9,7 +9,12 @@
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "premium",
-    "visaSubName": "Oran 3"
+    "category": "prime time",
+    "visaSubName": "Oran 3",
+    "cardNumber": "6280 5511 0570 0819",
+    "cardCvv": "692",
+    "cardMonth": "04",
+    "cardYear": "2026",
+    "cardHolder": "BELKHIR FOUAD"
   }
 ]
