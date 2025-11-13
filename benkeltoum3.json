@@ -1,15 +1,13 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "benkeltoum3",
     "mail": "baybenkltoum@gmail.com",
     "password": "689573",
     "GmailPasswordApp": "hwyw cdxz qmkq ksvf",
-    "profilePhotoId": "ed405fd3-820c-4e39-a4d4-dd820d33e4d3",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
-    "visaSubName": "Oran 3"
+    "visaSubName": "Oran 3",
+    "profilePhotoId": "ed405fd3-820c-4e39-a4d4-dd820d33e4d3"
   }
 ]
