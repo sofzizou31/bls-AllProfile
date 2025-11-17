@@ -1,15 +1,15 @@
 [
   {
-    "owner": "@Sofzizou",
-    "name": "MIRE",
-    "mail": "miremokaddem@gmail.com",
-    "password": "T411xbox@",
     "GmailPasswordApp": "gvij qeyl ppzu jkiw",
-    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762630697739/sfff.jpg",
-    "membersName": "Individual",
-    "locationName": "Oran",
-    "visaTypeName": "National Visa",
     "category": "normal",
-    "visaSubName": "Family reunification visa"
+    "locationName": "Oran",
+    "mail": "miremokaddem@gmail.com",
+    "membersName": "Individual",
+    "name": "MIRE",
+    "owner": "@Sofzizou",
+    "password": "T411xbox@",
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762630697739/sfff.jpg",
+    "visaSubName": "Family reunification visa",
+    "visaTypeName": "National Visa"
   }
 ]
