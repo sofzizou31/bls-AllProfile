@@ -10,6 +10,11 @@
     "locationName": "Oran",
     "visaTypeName": "National Visa",
     "category": "Prime Time",
-    "visaSubName": "Family reunification visa"
+    "visaSubName": "Family reunification visa",
+    "cardNumber": "5355 8522 0000 0000",
+    "cardCvv": "819",
+    "cardMonth": "03",
+    "cardYear": "2033",
+    "cardHolder": "BENTOUIR SAID"
   }
 ]
