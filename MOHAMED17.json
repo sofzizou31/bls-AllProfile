@@ -10,6 +10,11 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "cardNumber": "6280 7031 6598 7415",
+    "cardCvv": "123",
+    "cardMonth": "02",
+    "cardYear": "2026",
+    "cardHolder": "RACHID BENCHIBOU"
   }
 ]
