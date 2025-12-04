@@ -7,9 +7,14 @@
     "GmailPasswordApp": "aiuk usko zzkz clry",
     "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1750097601549/68505ed3da.jpg",
     "membersName": "Individual",
-    "locationName": "Algiers",
-    "visaTypeName": "First application / première demande",
+    "locationName": "Tangier",
+    "visaTypeName": "National Visa",
     "category": "primetime",
-    "visaSubName": "ALG 1"
+    "visaSubName": "Students Less than 6 Months (SSU).",
+    "cardNumber": "1953 2659 8654 3265",
+    "cardCvv": "456",
+    "cardMonth": "04",
+    "cardYear": "2029",
+    "cardHolder": "SAID BELAKDOUR"
   }
 ]
