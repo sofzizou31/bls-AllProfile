@@ -1,13 +1,16 @@
 [
   {
     "name": "amara504",
-    "mail": "laouar1984@hotmail.com",
+    "mail": "aminemirad73@gmail.com",
     "password": "T411xbox360@",
     "GmailPasswordApp": "",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "visaSubName": "Oran 2",
-    "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c"
+    "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
+    "emailType": "gmail",
+    "microsoftEmail": "",
+    "linkedGmail": ""
   }
 ]
