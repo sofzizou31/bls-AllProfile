@@ -10,6 +10,8 @@
     "locationName": "Algiers",
     "visaTypeName": "First application / première demande",
     "category": "prime time",
-    "visaSubName": "ALG 1"
+    "visaSubName": "ALG 1",
+    "mailotp": "",
+    "microsoftEmail": "Touabtilamis@outlook.com"
   }
 ]
