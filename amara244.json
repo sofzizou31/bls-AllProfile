@@ -1,16 +1,15 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "amara244",
     "mail": "tijari.iman-cas2@outlook.fr",
+    "mailotp": "",
+    "microsoftEmail": "tijari.iman-cas2@outlook.fr",
     "password": "T411xbox360@",
-    "TokenMail": "ercfaidrqheqxbvs",
-    "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
+    "GmailPasswordApp": "",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "Oran 2",
-    "GmailPasswordApp": ""
+    "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c"
   }
 ]
