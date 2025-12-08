@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "mailotp": "",
+    "microsoftEmail": "haouari.31@outlook.com"
   }
 ]
