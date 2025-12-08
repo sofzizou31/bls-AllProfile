@@ -8,9 +8,11 @@
     "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
     "membersName": "Individual",
     "locationName": "Algiers",
-    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "visaTypeName": "First application / première demande",
     "category": "primetime",
-    "visaSubName": "ALG 4",
-    "GmailPasswordApp": ""
+    "visaSubName": "ALG 1",
+    "GmailPasswordApp": "",
+    "mailotp": "houarirehim2@gmail.com",
+    "microsoftEmail": "houarirehim2@gmail.com"
   }
 ]
