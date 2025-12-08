@@ -11,6 +11,8 @@
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
     "visaSubName": "Oran 3",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "bnewaccs5@gmail.com",
+    "microsoftEmail": "bnewaccs5@gmail.com"
   }
 ]
