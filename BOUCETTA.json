@@ -10,6 +10,8 @@
     "locationName": "Algiers",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "premium",
-    "visaSubName": "ALG 4"
+    "visaSubName": "ALG 4",
+    "mailotp": "bnewaccs1@gmail.com",
+    "microsoftEmail": "bnewaccs1@gmail.com"
   }
 ]
