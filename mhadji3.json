@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "normal",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "mailotp": "skadi0712@gmail.com",
+    "microsoftEmail": "skadi0712@gmail.com"
   }
 ]
