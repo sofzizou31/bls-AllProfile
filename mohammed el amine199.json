@@ -8,14 +8,16 @@
     "profilePhotoId": "N/A",
     "membersName": "Individual",
     "locationName": "Oran",
-    "visaTypeName": "National Visa",
+    "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "normal",
-    "visaSubName": "Family reunification visa",
+    "visaSubName": "Oran 2",
     "cardNumber": "N/A",
     "cardCvv": "N/A",
     "cardMonth": "N/A",
     "cardYear": "N/A",
     "cardHolder": "N/A",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "mohamed.chareuf46@gmail.com",
+    "microsoftEmail": "mohamed.chareuf46@gmail.com"
   }
 ]
