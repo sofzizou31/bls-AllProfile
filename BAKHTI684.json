@@ -10,6 +10,9 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 3"
+    "visaSubName": "Oran 3",
+    "mailotp": "hass.glad@gmail.com",
+    "microsoftEmail": "hass.glad@gmail.com",
+    "GmailPasswordApp": ""
   }
 ]
