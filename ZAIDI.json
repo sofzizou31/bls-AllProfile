@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sifou",
+    "owner": "@SeifEddinben",
     "name": "ZAIDI",
     "mail": "zaidi.noura3146@gmail.com",
     "password": "T411xbox@",
@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "mailotp": "zaidi.noura3146@gmail.com",
+    "microsoftEmail": "zaidi.noura3146@gmail.com"
   }
 ]
