@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@habib",
     "name": "djawed355",
     "mail": "bouamamam065@gmail.com",
     "password": "@Sig29300",
@@ -11,6 +11,8 @@
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
     "visaSubName": "Oran 2",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "bouamamam065@gmail.com",
+    "microsoftEmail": "bouamamam065@gmail.com"
   }
 ]
