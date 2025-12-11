@@ -10,7 +10,9 @@
     "mailotp": "habibocyber@gmail.com",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
-    "visaSubName": "Oran 2"
+    "category": "normal",
+    "visaSubName": "Oran 3",
+    "microsoftEmail": "alicherif21@outlook.fr",
+    "GmailPasswordApp": ""
   }
 ]
