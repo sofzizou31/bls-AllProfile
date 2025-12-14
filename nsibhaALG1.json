@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@habib",
     "name": "nsibhaALG1",
     "mail": "amaarouf378@gmail.com",
     "password": "@Sig29300",
@@ -10,6 +10,8 @@
     "locationName": "Algiers",
     "visaTypeName": "First application / première demande",
     "category": "primetime",
-    "visaSubName": "ALG 1"
+    "visaSubName": "ALG 1",
+    "mailotp": "amaarouf378@gmail.com",
+    "microsoftEmail": "amaarouf378@gmail.com"
   }
 ]
