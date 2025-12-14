@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@habib",
     "name": "mhadji",
     "mail": "darnamoushouria9@gmail.com",
     "password": "@Sig29300",
@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "normal",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "mailotp": "darnamoushouria9@gmail.com",
+    "microsoftEmail": "darnamoushouria9@gmail.com"
   }
 ]
