@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@habib",
     "name": "mohamed428",
     "mail": "djedoune1@outlook.fr",
     "password": "@Sig29300",
@@ -11,6 +11,8 @@
     "locationName": "Algiers",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "ALG 2"
+    "visaSubName": "ALG 2",
+    "microsoftEmail": "djedoune1@outlook.fr",
+    "GmailPasswordApp": ""
   }
 ]
