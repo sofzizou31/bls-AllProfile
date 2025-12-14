@@ -11,6 +11,8 @@
     "visaTypeName": "First application / première demande",
     "category": "primetime",
     "visaSubName": "ALG 1",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "djamelnumber4@gmail.com",
+    "microsoftEmail": "djamelnumber4@gmail.com"
   }
 ]
