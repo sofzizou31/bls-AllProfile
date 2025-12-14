@@ -11,6 +11,8 @@
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "normal",
     "visaSubName": "Oran 2",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "",
+    "microsoftEmail": "jawadbouchi@outlook.com"
   }
 ]
