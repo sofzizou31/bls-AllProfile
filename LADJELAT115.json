@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@djarodcant",
     "name": "LADJELAT115",
     "mail": "bnewaccs11@gmail.com",
     "password": "Zero2007@.",
@@ -11,6 +11,8 @@
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
     "visaSubName": "ALG 2",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "bnewaccs11@gmail.com",
+    "microsoftEmail": "bnewaccs11@gmail.com"
   }
 ]
