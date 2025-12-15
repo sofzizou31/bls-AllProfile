@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@SeifEddinben",
+    "owner": "@Seifeddinben",
     "name": "DJAMEL535",
     "mail": "belmadani.houaria@outlook.fr",
     "password": "T411xbox@",
@@ -11,6 +11,8 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "microsoftEmail": "belmadani.houaria@outlook.fr",
+    "GmailPasswordApp": ""
   }
 ]
