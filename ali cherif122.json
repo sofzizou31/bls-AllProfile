@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@habib",
+    "owner": null,
     "name": "ali cherif122",
     "mail": "khierdinbendida@gmail.com",
     "password": "@Sig29300",
@@ -16,6 +16,8 @@
     "cardMonth": "N/A",
     "cardYear": "N/A",
     "cardHolder": "N/A",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "khierdinbendida@gmail.com",
+    "microsoftEmail": "khierdinbendida@gmail.com"
   }
 ]
