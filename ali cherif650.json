@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": null,
     "name": "ali cherif650",
     "mail": "haddad1924@outlook.fr",
     "password": "@Sig29300",
@@ -11,6 +11,8 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 3"
+    "visaSubName": "Oran 3",
+    "microsoftEmail": "haddad1924@outlook.fr",
+    "GmailPasswordApp": ""
   }
 ]
