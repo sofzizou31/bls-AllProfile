@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@Seifeddinben",
     "name": "BEDROUNI763",
     "mail": "accsforbssbackupn14@gmail.com",
     "password": "Zero2007@.",
@@ -11,6 +11,8 @@
     "visaTypeName": "First application / première demande",
     "category": "primetime",
     "visaSubName": "Oran 1",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "accsforbssbackupn14@gmail.com",
+    "microsoftEmail": "accsforbssbackupn14@gmail.com"
   }
 ]
