@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@Sofzizou",
+    "owner": "@djarodcant",
     "name": "SLIMANI574",
     "mail": "bnewaccs4@gmail.com",
     "password": "Zero2007@.",
@@ -10,6 +10,9 @@
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 3"
+    "visaSubName": "Oran 3",
+    "mailotp": "bnewaccs4@gmail.com",
+    "microsoftEmail": "bnewaccs4@gmail.com",
+    "GmailPasswordApp": ""
   }
 ]
