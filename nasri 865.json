@@ -7,10 +7,12 @@
     "TokenMail": "egkr ojwm nadx jymt",
     "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
     "membersName": "Individual",
-    "locationName": "Algiers",
+    "locationName": "Oran",
     "visaTypeName": "First application / première demande",
     "category": "primetime",
-    "visaSubName": "ALG 1",
-    "GmailPasswordApp": ""
+    "visaSubName": "Oran 1",
+    "GmailPasswordApp": "",
+    "mailotp": "horchouhub@gmail.com",
+    "microsoftEmail": "horchouhub@gmail.com"
   }
 ]
