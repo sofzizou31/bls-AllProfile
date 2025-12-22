@@ -5,10 +5,12 @@
     "password": "T411xbox360@",
     "GmailPasswordApp": "",
     "membersName": "Individual",
-    "locationName": "Oran",
-    "visaTypeName": "First application / première demande",
-    "visaSubName": "Oran 1",
+    "locationName": "Algiers",
+    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "visaSubName": "ALG 4",
     "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1763571126921/p_6gjh4ciw.jpg",
-    "owner": "@sofzizou"
+    "owner": "@sofzizou",
+    "mailotp": "zouaja602@gmail.com",
+    "microsoftEmail": "zouaja602@gmail.com"
   }
 ]
