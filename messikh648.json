@@ -10,7 +10,9 @@
     "mailotp": "aminemirad73@gmail.com",
     "locationName": "Algiers",
     "visaTypeName": "First application / première demande",
-    "category": "primetime",
-    "visaSubName": "ALG 1"
+    "category": "premium",
+    "visaSubName": "ALG 1",
+    "microsoftEmail": "messkhi.abdelazaiz@outlook.fr",
+    "GmailPasswordApp": ""
   }
 ]
