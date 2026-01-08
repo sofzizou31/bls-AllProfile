@@ -6,15 +6,17 @@
     "password": "T411xbox360@",
     "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1761391835974/profile_photo.jpg",
     "membersName": "Individual",
-    "locationName": "Oran",
-    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "locationName": "Algiers",
+    "visaTypeName": "First application / première demande",
     "category": "primetime",
-    "visaSubName": "Oran 3",
+    "visaSubName": "ALG 1",
     "cardNumber": "6280 7031 7622 0959",
     "cardCvv": "041",
     "cardMonth": "09",
     "cardYear": "2029",
     "cardHolder": "BENSALAH BOUCIF",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "mailotp": "bensalahsaid38@gmail.com",
+    "microsoftEmail": "bensalahsaid38@gmail.com"
   }
 ]
