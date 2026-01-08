@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@mayoutigsm",
+    "owner": "@habib",
     "name": "AKRIM",
     "mail": "akrimmokhtar18@gmail.com",
     "password": "@Sig29300",
@@ -9,7 +9,9 @@
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "First application / première demande",
-    "category": "normal",
-    "visaSubName": "Oran 1"
+    "category": "prime time",
+    "visaSubName": "Oran 1",
+    "mailotp": "akrimmokhtar18@gmail.com",
+    "microsoftEmail": "akrimmokhtar18@gmail.com"
   }
 ]
