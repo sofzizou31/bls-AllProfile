@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "First application / première demande",
     "category": "premium",
-    "visaSubName": "Oran 1"
+    "visaSubName": "Oran 1",
+    "mailotp": "",
+    "microsoftEmail": "MED.TOUBIB@OUTLOOK.COM"
   }
 ]
