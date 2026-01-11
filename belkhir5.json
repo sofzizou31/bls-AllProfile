@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "Schengen Visa",
     "category": "primetime",
-    "visaSubName": "Family reunification visa"
+    "visaSubName": "Family reunification visa",
+    "mailotp": "",
+    "microsoftEmail": "el-bahri31@outlook.com"
   }
 ]
