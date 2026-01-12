@@ -1,18 +1,16 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "nasri 782",
     "mail": "naimiredjdal@gmail.com",
+    "mailotp": "naimiredjdal@gmail.com",
+    "microsoftEmail": "naimiredjdal@gmail.com",
     "password": "T411xbox360@",
-    "TokenMail": "qjev fahg pwpz mbqq",
-    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1763571126921/p_6gjh4ciw.jpg",
+    "GmailPasswordApp": "",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "Oran 3",
-    "GmailPasswordApp": "",
-    "mailotp": "naimiredjdal@gmail.com",
-    "microsoftEmail": "naimiredjdal@gmail.com"
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1763571126921/p_6gjh4ciw.jpg",
+    "owner": "@Sofzizou"
   }
 ]
