@@ -1,23 +1,16 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "MOHAMMADINE554",
     "mail": "bentayeb.driss31@gmail.com",
+    "mailotp": "bentayeb.driss31@gmail.com",
+    "microsoftEmail": "bentayeb.driss31@gmail.com",
     "password": "T411xbox360@",
-    "TokenMail": "cber lhir sznn qfgl",
-    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1763997447778/HGHG.jpg",
+    "GmailPasswordApp": "",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "Oran 3",
-    "GmailPasswordApp": "",
-    "cardNumber": "6280 7030 5491 8278",
-    "cardCvv": "866",
-    "cardMonth": "04",
-    "cardYear": "2026",
-    "cardHolder": "BELHACHAMI FATIMA ZAHR",
-    "mailotp": "bentayeb.driss31@gmail.com",
-    "microsoftEmail": "bentayeb.driss31@gmail.com"
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1763997447778/HGHG.jpg",
+    "owner": "@Sofzizou"
   }
 ]
