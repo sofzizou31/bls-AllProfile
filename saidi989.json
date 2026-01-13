@@ -1,23 +1,16 @@
 [
   {
-    "owner": "@SOFZIZOU",
     "name": "saidi989",
     "mail": "belbiodomar@gmail.com",
+    "mailotp": "belbiodomar@gmail.com",
+    "microsoftEmail": "belbiodomar@gmail.com",
     "password": "T411xbox360@",
-    "TokenMail": "korp okif uvqj yegp",
-    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1764507137956/p_8etmv675.jpg",
+    "GmailPasswordApp": "",
     "membersName": "3 Members",
     "locationName": "Algiers",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "ALG 3",
-    "cardNumber": "6280703158780244",
-    "cardCvv": "091",
-    "cardMonth": "08",
-    "cardYear": "2026",
-    "cardHolder": "Saidi yasmine",
-    "mailotp": "belbiodomar@gmail.com",
-    "microsoftEmail": "belbiodomar@gmail.com",
-    "GmailPasswordApp": ""
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1764507137956/p_8etmv675.jpg",
+    "owner": "@Sofzizou"
   }
 ]
