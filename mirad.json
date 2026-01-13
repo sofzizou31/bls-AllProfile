@@ -1,17 +1,16 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "mirad",
     "mail": "aminemirad73@gmail.com",
+    "mailotp": "aminemirad73@gmail.com",
+    "microsoftEmail": "aminemirad73@gmail.com",
     "password": "186656",
     "GmailPasswordApp": "dquc relq afmg kswh",
-    "profilePhotoId": "ed405fd3-820c-4e39-a4d4-dd820d33e4d3",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "Oran 3",
-    "mailotp": "aminemirad73@gmail.com",
-    "microsoftEmail": "aminemirad73@gmail.com"
+    "profilePhotoId": "ed405fd3-820c-4e39-a4d4-dd820d33e4d3",
+    "owner": "@Sofzizou"
   }
 ]
