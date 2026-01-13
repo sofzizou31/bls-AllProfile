@@ -1,22 +1,16 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "belkhir2",
     "mail": "bekltoummes@gmail.com",
+    "mailotp": "bekltoummes@gmail.com",
+    "microsoftEmail": "bekltoummes@gmail.com",
     "password": "723623",
     "GmailPasswordApp": "",
-    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762108240172/profile_photo.jpg",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "Oran 3",
-    "cardNumber": "6280 7031 7622 0959",
-    "cardCvv": "041",
-    "cardMonth": "09",
-    "cardYear": "2029",
-    "cardHolder": "BENSALAH BOUCIF",
-    "mailotp": "bekltoummes@gmail.com",
-    "microsoftEmail": "bekltoummes@gmail.com"
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762108240172/profile_photo.jpg",
+    "owner": "@Sofzizou"
   }
 ]
