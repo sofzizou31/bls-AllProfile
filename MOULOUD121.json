@@ -1,18 +1,16 @@
 [
   {
-    "owner": "@Seifeddinben",
     "name": "MOULOUD121",
     "mail": "zin.din121@outlook.fr",
+    "mailotp": "",
+    "microsoftEmail": "zin.din121@outlook.fr",
     "password": "T411xbox@",
-    "TokenMail": "nkei rdtw avgn nidk",
-    "profilePhotoId": "N/A",
+    "GmailPasswordApp": "",
     "membersName": "Individual",
     "locationName": "Algiers",
     "visaTypeName": "Visa renewal / renouvellement de visa",
-    "category": "primetime",
     "visaSubName": "ALG 2",
-    "mailotp": "",
-    "microsoftEmail": "zin.din121@outlook.fr",
-    "GmailPasswordApp": ""
+    "profilePhotoId": "N/A",
+    "owner": "@SeifEddinben"
   }
 ]
