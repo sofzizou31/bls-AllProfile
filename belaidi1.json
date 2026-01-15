@@ -6,10 +6,11 @@
     "GmailPasswordApp": "",
     "membersName": "Individual",
     "locationName": "Algiers",
-    "visaTypeName": "First application / première demande",
-    "visaSubName": "ALG 1",
+    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "visaSubName": "ALG 4",
     "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1764515468656/alg 1.jpg",
     "mailotp": "mohamidinemoh@gmail.com",
-    "microsoftEmail": "mohamidinemoh@gmail.com"
+    "microsoftEmail": "mohamidinemoh@gmail.com",
+    "owner": "@sofzizou"
   }
 ]
