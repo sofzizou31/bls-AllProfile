@@ -8,9 +8,11 @@
     "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
     "membersName": "Individual",
     "locationName": "Oran",
-    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "visaTypeName": "National Visa",
     "category": "primetime",
-    "visaSubName": "Oran 2",
-    "GmailPasswordApp": ""
+    "visaSubName": "Family reunification visa",
+    "GmailPasswordApp": "",
+    "mailotp": "bettahark1993@gmail.com",
+    "microsoftEmail": "bettahark1993@gmail.com"
   }
 ]
