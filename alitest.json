@@ -1,17 +1,16 @@
 [
   {
-    "owner": "@Sofzizou",
     "name": "alitest",
     "mail": "ali.ali317500@gmail.com",
+    "mailotp": "ali.ali317500@gmail.com",
+    "microsoftEmail": "boulahiaradjaa83@gmail.com",
     "password": "834079",
     "GmailPasswordApp": "ugdt isly nbwa pdpk",
-    "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
     "membersName": "Individual",
     "locationName": "Oran",
     "visaTypeName": "National Visa",
-    "category": "premium",
     "visaSubName": "Family reunification visa",
-    "mailotp": "ali.ali317500@gmail.com",
-    "microsoftEmail": "boulahiaradjaa83@gmail.com"
+    "profilePhotoId": "8c8cd708-6b1e-466f-b791-c9d757191e1c",
+    "owner": "@Sofzizou"
   }
 ]
