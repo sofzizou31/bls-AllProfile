@@ -1,17 +1,16 @@
 [
   {
-    "GmailPasswordApp": "gvij qeyl ppzu jkiw",
-    "category": "normal",
-    "locationName": "Oran",
-    "mail": "miremokaddem@gmail.com",
-    "membersName": "2 Members",
     "name": "MIRE",
-    "owner": "@Sofzizou",
-    "password": "T411xbox@",
-    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762630697739/sfff.jpg",
-    "visaSubName": "Oran 3",
-    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "mail": "miremokaddem@gmail.com",
     "mailotp": "miremokaddem@gmail.com",
-    "microsoftEmail": "miremokaddem@gmail.com"
+    "microsoftEmail": "miremokaddem@gmail.com",
+    "password": "T411xbox@",
+    "GmailPasswordApp": "gvij qeyl ppzu jkiw",
+    "membersName": "2 Members",
+    "locationName": "Oran",
+    "visaTypeName": "Visa renewal / renouvellement de visa",
+    "visaSubName": "Oran 3",
+    "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1762630697739/sfff.jpg",
+    "owner": "@Sofzizou"
   }
 ]
