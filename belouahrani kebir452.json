@@ -2,7 +2,7 @@
   {
     "owner": "@Sofzizou",
     "name": "belouahrani kebir452",
-    "mail": "miloudchenafa6@gmail.com",
+    "mail": "ahmedbelouarahni@gmail.com",
     "password": "T411xbox360@",
     "GmailPasswordApp": "hahl zomr ldta kcbm",
     "profilePhotoId": "https://img.chritout.com/uploads/DevTM_1764507137956/p_8etmv675.jpg",
@@ -10,6 +10,8 @@
     "locationName": "Algiers",
     "visaTypeName": "Visa renewal / renouvellement de visa",
     "category": "primetime",
-    "visaSubName": "Oran 2"
+    "visaSubName": "Oran 2",
+    "mailotp": "ahmedbelouarahni@gmail.com",
+    "microsoftEmail": "miloudchenafa6@gmail.com"
   }
 ]
