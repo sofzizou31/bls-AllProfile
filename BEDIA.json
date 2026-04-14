@@ -1,6 +1,6 @@
 [
   {
-    "owner": "@habib",
+    "owner": "@Mayoutigsm",
     "name": "BEDIA",
     "mail": "bediaghaouti382@gmail.com",
     "password": "@Sig29300",
@@ -10,6 +10,8 @@
     "locationName": "Oran",
     "visaTypeName": "First application / première demande",
     "category": "primetime",
-    "visaSubName": "Oran 1"
+    "visaSubName": "Oran 1",
+    "mailotp": "bediaghaouti382@gmail.com",
+    "microsoftEmail": "bediaghaouti382@gmail.com"
   }
 ]
