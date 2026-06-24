@@ -9,10 +9,12 @@
     "membersName": "Individual",
     "mailotp": "aminemirad73@gmail.com",
     "locationName": "Algiers",
-    "visaTypeName": "First application / première demande",
-    "category": "primetime",
+    "visaTypeName": "First application / premi\u00E8re demande",
+    "category": "Premium",
     "visaSubName": "ALG 1",
     "microsoftEmail": "smahi.3120@outlook.com",
-    "GmailPasswordApp": ""
+    "GmailPasswordApp": "",
+    "randomCategoryMode": null,
+    "countdownDuration_calendar": 5
   }
 ]
